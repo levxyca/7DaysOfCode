@@ -1,4 +1,4 @@
-# 7DaysOfCode - Lógica JS 1/7: Operações Booleanas
+# 7DaysOfCode - Lógica JS 2/7: Variáveis
 
 Sabe quando você se cadastra em um site e, logo em seguida, quando faz o seu login, ele já te chama pelo seu nome? É isso que você vai fazer no desafio de hoje!
 
